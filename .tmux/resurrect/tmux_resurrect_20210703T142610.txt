@@ -1,0 +1,11 @@
+pane	0	0	:terminal	0	:	0	:/home/ashlyn	1	zsh	:
+pane	0	0	:terminal	0	:	1	:/home/ashlyn	0	zsh	:
+pane	0	1	:editor	1	:*	0	:/home/ashlyn/Code	0	nvim	:nvim
+pane	0	1	:editor	1	:*	1	:/home/ashlyn	1	zsh	:
+pane	0	2	:organizer	0	:-	0	:/home/ashlyn	0	top	:top
+pane	0	2	:organizer	0	:-	1	:/home/ashlyn	1	python3	:/usr/bin/python3 -s /usr/bin/jrnl
+pane	0	2	:organizer	0	:-	2	:/home/ashlyn	0	zsh	:
+window	0	0	0	:	7ed2,172x40,0,0{86x40,0,0,0,85x40,87,0,5}
+window	0	1	1	:*	fed6,172x40,0,0{86x40,0,0,1,85x40,87,0,6}
+window	0	2	0	:-	0abb,172x40,0,0{86x40,0,0[86x20,0,0,2,86x19,0,21,4],85x40,87,0,3}
+state	0	

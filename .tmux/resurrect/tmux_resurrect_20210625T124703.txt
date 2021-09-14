@@ -1,0 +1,3 @@
+pane	0	0	:zsh	1	:*	0	:/home/ashlyn/Code/workspace/tribute_page	1	zsh	:zsh
+window	0	0	1	:*	ad3d,172x40,0,0,0
+state	0	
